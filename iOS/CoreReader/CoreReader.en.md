@@ -39,6 +39,3 @@ Ok.. Will the updates slow down here? I don't know, Since it is no longer due to
 ## Contact me
 
 Email: <yhzhou.echo+feedback@gmail.com>
-
-QQ: 429620632
-

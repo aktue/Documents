@@ -38,5 +38,3 @@
 ## 联系我
 
 邮件: <yhzhou.echo+feedback@gmail.com>
-
-QQ: 429620632
